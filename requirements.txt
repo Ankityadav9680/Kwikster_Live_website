@@ -1,0 +1,8 @@
+streamlit==1.59.0
+requests==2.32.4
+beautifulsoup4==4.13.4
+Pillow==11.3.0
+lxml==6.0.0
+pandas==2.3.1
+numpy==2.3.2
+GitPython==3.1.45
